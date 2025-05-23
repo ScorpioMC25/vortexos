@@ -53,5 +53,6 @@ bash
 Copy
 Edit
 sudo pacman -Syu
+
 Enjoy your lightweight, gaming-optimized OS!
 
